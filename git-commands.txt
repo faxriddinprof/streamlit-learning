@@ -1,0 +1,13 @@
+if 1st time create:
+    git init
+    git add .
+    git status
+    git commit -m "Izoh yani nimani yuklayapsan or uzgartirding"
+    git remote add origin https://github.com/faxriddinprof/streamlit-learning.git 
+    git push -u origin master
+
+All time:
+    git add .
+    git status
+    git commit -m "Izoh yani nimani yuklayapsan or uzgartirding"
+    git push -u origin master
